@@ -1,4 +1,4 @@
-use_bpm 60  # Setting a slow tempo
+use_bpm 60  
 use_synth :piano
 
 define :main_melody do
