@@ -29,7 +29,7 @@ end
 
 
 with_fx :reverb, room: 0.8 do
-  15.times do  # Loop to reach around 2 minutes
+  15.times do 
     in_thread do
       main_melody
     end
